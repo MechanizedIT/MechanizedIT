@@ -2,8 +2,6 @@
   <img src="assets/portfolio-header.svg" alt="Chris Woodall — MechanizedIT: playful physics, gameplay systems, and prototypes" width="100%">
 </p>
 
-<h1 align="center">Gameplay systems, playful physics, and prototypes built to be played.</h1>
-
 <p align="center">
   I am a game developer and rapid prototyper who turns unusual mechanics into clear, playable experiences.<br>
   My work spans shipped level content, mobile and web games, social worlds, and experimental creative software.
@@ -19,13 +17,13 @@
   <a href="https://github.com/MechanizedIT?tab=repositories">Explore my code</a>
 </p>
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="20%"><h3>⚙️ Prototyping</h3><sub>Ideas into playable truth</sub></td>
-    <td align="center" width="20%"><h3>🧲 Game Physics</h3><sub>Construction & interaction</sub></td>
-    <td align="center" width="20%"><h3>🧩 Level Design</h3><sub>Pacing, challenge & variety</sub></td>
-    <td align="center" width="20%"><h3>📱 Cross-Platform</h3><sub>Mobile, web & social worlds</sub></td>
-    <td align="center" width="20%"><h3>✨ Creative AI</h3><sub>Tools & product experiments</sub></td>
+    <td align="center" width="20%"><h3 align="center">⚙️<br>Prototyping</h3><p align="center"><sub>Ideas into playable truth</sub></p></td>
+    <td align="center" width="20%"><h3 align="center">🧲<br>Game Physics</h3><p align="center"><sub>Construction & interaction</sub></p></td>
+    <td align="center" width="20%"><h3 align="center">🧩<br>Level Design</h3><p align="center"><sub>Pacing, challenge & variety</sub></p></td>
+    <td align="center" width="20%"><h3 align="center">📱<br>Cross-Platform</h3><p align="center"><sub>Mobile, web & social worlds</sub></p></td>
+    <td align="center" width="20%"><h3 align="center">✨<br>Creative AI</h3><p align="center"><sub>Tools & product experiments</sub></p></td>
   </tr>
 </table>
 
