@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Chris Woodall — MechanizedIT</title>
+  <desc id="desc">A blueprint-inspired banner with connected mechanical shapes representing playful systems and game prototyping.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#091827"/>
+      <stop offset="0.55" stop-color="#102b3d"/>
+      <stop offset="1" stop-color="#0b1f31"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#31d7d1"/>
+      <stop offset="1" stop-color="#79f2b8"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#68b9c7" stroke-width="1" opacity="0.11"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="330" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="330" rx="24" fill="url(#grid)"/>
+  <path d="M0 274 C190 220 333 336 542 276 S926 211 1200 270 V330 H0Z" fill="#07131f" opacity="0.72"/>
+
+  <!-- A compact mechanical system: wheel, linkage, goal. -->
+  <g transform="translate(80 63)">
+    <path d="M88 101 L181 55 L257 133 L339 62" fill="none" stroke="#31d7d1" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+    <path d="M181 55 L181 169 L257 133" fill="none" stroke="#79f2b8" stroke-width="4" stroke-dasharray="8 10" opacity="0.75"/>
+    <g transform="translate(88 101)" filter="url(#glow)">
+      <circle r="53" fill="#102b3d" stroke="#31d7d1" stroke-width="9"/>
+      <circle r="17" fill="#ffc857"/>
+      <path d="M0-68V-51 M48-48L36-36 M68 0H51 M48 48L36 36 M0 68V51 M-48 48L-36 36 M-68 0H-51 M-48-48L-36-36" stroke="#31d7d1" stroke-width="10" stroke-linecap="round"/>
+    </g>
+    <circle cx="181" cy="55" r="19" fill="#ffc857" stroke="#fff4cc" stroke-width="4"/>
+    <circle cx="257" cy="133" r="24" fill="#102b3d" stroke="#79f2b8" stroke-width="8"/>
+    <rect x="313" y="36" width="55" height="55" rx="10" fill="#ff6577" transform="rotate(8 340 63)"/>
+    <path d="M331 53l10 10 21-24" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g transform="translate(515 0)">
+    <text x="0" y="112" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="6">CHRIS WOODALL</text>
+    <text x="0" y="186" fill="url(#accent)" font-family="Segoe UI, Arial, sans-serif" font-size="66" font-weight="800" letter-spacing="2">MECHANIZEDIT</text>
+    <rect x="1" y="207" width="610" height="4" rx="2" fill="#ffc857"/>
+    <text x="0" y="254" fill="#d9edf0" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="500" letter-spacing="1">PLAYFUL PHYSICS  •  GAMEPLAY SYSTEMS  •  PROTOTYPES</text>
+  </g>
+</svg>
