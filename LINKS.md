@@ -1,0 +1,35 @@
+- fancade (worked with Fancade for nearly two years developing game prototypes and levels)
+-- play: https://play.fancade.com/
+- brain in a jar (fancade)
+-- play: https://play.fancade.com/615B540FBE61F08E
+- drive mad (fancade)
+-- play: https://poki.com/en/g/drive-mad
+-- image: assets\Drive_Mad_Level_Prototype_1.png
+- block mechanics (mobile app and web game prototype)
+-- play: https://mechanizedit.itch.io/block-mechanics (early prototype on itch.io)
+-- youtube video: https://www.youtube.com/watch?v=QsvBwYt7BpM&feature=youtu.be
+- IsleForge (Meta Horizons)
+-- youtube video: https://youtu.be/gyHaXbOMGEo?si=aDl_lgnumQ32b5yJ
+-- play: https://horizon.meta.com/world/10172690463285008/?locale=en_US
+- Asteroid Minder (Meta Horizons)
+-- youtube video: https://www.youtube.com/shorts/cYv3j8RiUPM
+-- play: https://horizon.meta.com/world/10173045618865008/?hwsh=jLNQ5xceaZ
+- Cloud Punks (Meta Horizons)
+-- play: https://horizon.meta.com/world/10171115192965008/?hwsh=72ZqrYLkp8
+-- youtube video: https://www.youtube.com/shorts/KDUetnX9-8I
+- Hammer Obby (HypeHype)
+-- youtube video: https://www.youtube.com/watch?v=cTIgGUYqOVE
+-- youtube promo by hypehype for hammer obby: https://www.youtube.com/watch?v=DEYN6YenROk&t=1s
+-- hypehype is no longer available
+- Inkspark (AI-assisted interactive storytelling web application)
+-- view repository: https://github.com/MechanizedIT/inkspark
+-- youtube video: https://www.youtube.com/shorts/86ppcgBDFpA
+- Itch.io profile
+-- view: https://itch.io/profile/mechanizedit
+- github repositories
+-- view: https://github.com/MechanizedIT
+- space punks (core games)
+-- play: https://www.coregames.com/games/e28897/spacepunks-tycoon
+-- youtube video: https://www.youtube.com/watch?v=tgjsFzzGOE8
+- doge force (core games)
+-- play: https://www.coregames.com/games/5b21ce/doge-force-lunar-patrol
