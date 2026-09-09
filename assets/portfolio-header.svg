@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-  <title id="title">Chris Woodall — MechanizedIT</title>
-  <desc id="desc">A blueprint-inspired banner with connected mechanical shapes representing playful systems and game prototyping.</desc>
+  <title id="title">Chris Woodall — Gameplay Developer and Technical Designer</title>
+  <desc id="desc">MechanizedIT. A blueprint-inspired banner with connected mechanical shapes representing physics, gameplay systems, and prototyping.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#091827"/>
@@ -42,6 +42,6 @@
     <text x="0" y="112" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="6">CHRIS WOODALL</text>
     <text x="0" y="186" fill="url(#accent)" font-family="Segoe UI, Arial, sans-serif" font-size="66" font-weight="800" letter-spacing="2">MECHANIZEDIT</text>
     <rect x="1" y="207" width="610" height="4" rx="2" fill="#ffc857"/>
-    <text x="0" y="254" fill="#d9edf0" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="500" letter-spacing="1">PLAYFUL PHYSICS  •  GAMEPLAY SYSTEMS  •  PROTOTYPES</text>
+    <text x="0" y="254" fill="#d9edf0" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="500" letter-spacing="0.5">GAMEPLAY DEVELOPER · TECHNICAL DESIGNER</text>
   </g>
 </svg>
