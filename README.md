@@ -1,23 +1,21 @@
 <p align="center">
-  <img src="assets/portfolio-header.svg" alt="Chris Woodall — MechanizedIT. Gameplay Developer and Technical Designer." width="100%">
-</p>
-
-<h1 align="center">Gameplay Developer &amp; Technical Designer</h1>
-
-<p align="center">
-  I build physics-driven gameplay, playable prototypes, and levels.<br>
-  My work includes professional development with Fancade, independent Unreal Engine projects, and browser/mobile games.
+  <img src="assets/portfolio-banner.svg" alt="Chris Woodall — MechanizedIT. Gameplay Developer and Technical Designer. Illustrated game-development collage." width="100%">
 </p>
 
 <p align="center">
-  <strong>Open to remote employment and contract work.</strong><br>
+  I'm Chris, a gameplay developer and technical designer.<br>
+  I build physics-driven mechanics, playable prototypes, and levels.
+</p>
+
+<p align="center">
+  <strong>Open to remote employment, contracts, and part-time collaboration.</strong><br>
   Illinois, USA · US Central time
 </p>
 
 <p align="center">
   <a href="mailto:mechanizedit@gmail.com"><strong>Contact me</strong></a> ·
-  <a href="mailto:mechanizedit@gmail.com?subject=Resume%20request"><strong>Request my resume</strong></a> ·
-  <a href="https://itch.io/profile/mechanizedit">Games on itch.io</a> ·
+  <a href="mailto:mechanizedit@gmail.com?subject=Resume%20request">Request my resume</a> ·
+  <a href="https://itch.io/profile/mechanizedit">itch.io</a> ·
   <a href="LINKS.md">All project links</a>
 </p>
 
@@ -44,7 +42,7 @@ I worked with **Fancade for nearly two years**, developing game prototypes and l
   <img src="assets/Drive_Mad_Level_Prototype_1.png" alt="One of my Drive Mad level prototypes, featuring a monster truck and a curved track" width="100%">
 </a>
 
-I designed and iterated levels around the game's two-button physics, using terrain, vehicle variation, balance, and timing to create different challenges without adding more controls. The work meant finding new possibilities in the driving model while keeping the levels readable and consistent with the game.
+I designed and iterated levels around the game's two-button physics. Terrain, vehicle variation, balance, and timing created different challenges without adding controls. The goal was to find new possibilities in the driving model while keeping levels readable and consistent with the game.
 
 [**Play Drive Mad →**](https://poki.com/en/g/drive-mad)
 
@@ -64,25 +62,23 @@ I designed and iterated levels around the game's two-button physics, using terra
 
 A 3D construction game where players connect blocks, motors, and controls to solve physics puzzles. I designed the building system, implemented the interactions and mobile controls, and published the game on Google Play.
 
-**What this shows:** physics-driven construction, player-facing building tools, and taking an independent project from prototype to publication.
+**Focus:** physics-driven construction, player-facing building tools, and independent development through publication.
 
-The itch.io page contains **early Windows and Android prototypes**.
-
-[**Get the prototype →**](https://mechanizedit.itch.io/block-mechanics) · [Watch gameplay](https://www.youtube.com/watch?v=QsvBwYt7BpM)
+[**Get the early Windows / Android prototype →**](https://mechanizedit.itch.io/block-mechanics) · [Watch gameplay](https://www.youtube.com/watch?v=QsvBwYt7BpM)
 
 ### Wildkin Frontier
 
 **Game design & development · JavaScript / Three.js / Rapier · Work in progress**
 
-A mobile-first 3D survival prototype for the browser, built around short resource-gathering expeditions. Leave camp, explore and gather, then decide whether to return with what you have or keep going.
+A mobile-first 3D survival prototype for the browser. Leave camp, explore and gather, then decide whether to return with what you have or keep going.
 
-The current prototype brings together touch and keyboard controls, physics-based movement and collision, harvesting, combat, and a camp-to-expedition loop. It also includes in-browser world and visual-asset authoring tools.
+The prototype combines touch and keyboard controls, physics-based movement, harvesting, combat, and a camp-to-expedition loop. In-browser world and visual-asset tools support authoring alongside the game.
 
-**My role:** game design, development planning, and hands-on playtesting, with AI-assisted implementation. I define the mechanics and acceptance criteria, review changes, and iterate on the playable result.
+**My role:** game design, development planning, and hands-on playtesting, with AI-assisted implementation. I define mechanics and acceptance criteria, review changes, and iterate on the playable result.
 
-**What this shows:** mobile interaction, connected gameplay systems, and authoring tools built alongside the game. This is an **unfinished prototype**, not a shipped release; the repository includes local setup instructions.
+**Focus:** mobile interaction, connected gameplay systems, and authoring tools. This is an **unfinished prototype**, not a shipped release.
 
-[**View source & setup →**](https://github.com/MechanizedIT/wildkin-frontier) · [Read the game design](https://github.com/MechanizedIT/wildkin-frontier/blob/main/docs/GAME_DESIGN.md)
+[**View source & local setup →**](https://github.com/MechanizedIT/wildkin-frontier) · [Read the game design](https://github.com/MechanizedIT/wildkin-frontier/blob/main/docs/GAME_DESIGN.md)
 
 ### Brain In Jar
 
@@ -94,9 +90,9 @@ The current prototype brings together touch and keyboard controls, physics-based
   </a>
 </p>
 
-A deliberately awkward physics-platforming game: each arm is controlled independently, turning movement into a coordination puzzle. It explores how a small change to the control scheme can become the central challenge.
+A deliberately awkward physics-platforming game: each arm is controlled independently, turning movement into a coordination puzzle. A small change to the control scheme becomes the central challenge.
 
-**What this shows:** original mechanic design, unconventional controls, and physics-based interaction.
+**Focus:** original mechanic design, unconventional controls, and physics-based interaction.
 
 [**Play in your browser →**](https://play.fancade.com/615B540FBE61F08E)
 
@@ -147,14 +143,14 @@ An AI-assisted interactive storytelling application for planning stories, develo
 
 I start with the core interaction, make it playable, and use playtesting to decide what needs to change. In an existing game, I work within its mechanics and constraints rather than adding complexity for its own sake.
 
-For AI-assisted projects, I break work into small, testable changes, use source control and explicit acceptance criteria, and check the result in the game. The tools help with implementation; design decisions and reviewing the result remain my responsibility.
+For AI-assisted projects, I keep changes small and testable, use source control and explicit acceptance criteria, and check the result in the game. Design decisions and reviewing the work remain my responsibility.
 
 ---
 
 ## Contact
 
-**Open to remote employment, contract projects, and part-time collaboration.**
-
-I can help with gameplay prototypes, physics interactions, level design, or development on an existing game. Email me with the role or project, the engine, and the kind of help you need.
+Have a role or project involving gameplay, physics interactions, or level design? Email me with the engine, scope, and kind of help you need.
 
 **[mechanizedit@gmail.com](mailto:mechanizedit@gmail.com)** · [Request my resume](mailto:mechanizedit@gmail.com?subject=Resume%20request) · [All project links](LINKS.md)
+
+<sub>Header artwork is illustrative, not gameplay screenshots. Follow the project links for actual builds and demos.</sub>
